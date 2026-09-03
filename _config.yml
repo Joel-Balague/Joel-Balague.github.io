@@ -81,7 +81,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "homersimpson.github.io"
+url-pretty: "joel-balague.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -123,7 +123,7 @@ hover-col: "#39FF14"
 navbar-col: "#39FF14"
 navbar-text-col: "#F527A9"
 navbar-border-col: "#f4f4f4"
-footer-col: "#EAEAEA"
+footer-col: "#c1c1c1"
 footer-text-col: "#777777"
 footer-link-col: "#cccccc"
 footer-hover-col: "#0085A1"
