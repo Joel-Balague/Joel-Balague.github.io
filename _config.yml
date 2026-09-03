@@ -1,6 +1,6 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
 title: My website
-author: Homer Simpson
+author: Joel Balagué
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -36,13 +36,13 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "homer.simpson@gmail.com"
-  facebook: homer.simpson
-  github: homer.simpson
-  twitter: "@homeeer"
-  youtube: "@homer.simpson"
-  linkedin: homer.simpson
-  whatsapp: "34666666666"  # Afegeix el teu número aquí (codi país + número)
+  email: "joelBR@gmail.com"
+  facebook: joel.br
+  github: joel-b
+  twitter: "@joel"
+  youtube: "@joel.b"
+  linkedin: joel.b
+  whatsapp: "3412345678"  # Afegeix el teu número aquí (codi país + número)
 
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -147,7 +147,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "Europe/Madrid"
+timezone: "Europe/Barcelona"
 markdown: kramdown
 math_engine: mathjax
 syntax_highlighter: rouge # O el que facis servir
